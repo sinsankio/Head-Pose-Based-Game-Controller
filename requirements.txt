@@ -1,0 +1,10 @@
+mediapipe
+opencv-python
+numpy
+eventlet
+Pillow
+Flask
+python-engineio
+python-socketio==4.2.1
+dlib
+mediapipe
